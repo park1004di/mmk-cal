@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-22T20:10:47+00:00",
+  "last_run": "2026-09-22T20:40:24+00:00",
   "sources": {
     "cbm_ref": {
       "ok": true,
@@ -20,12 +20,12 @@
       ]
     },
     "gold": {
-      "ok": true,
-      "source": "setlive.myanmarnode.com"
+      "ok": false,
+      "source": "실패 — 이전 값 유지"
     },
     "petrol": {
-      "ok": true,
-      "source": "setlive.myanmarnode.com"
+      "ok": false,
+      "source": "실패 — 이전 값 유지"
     }
   },
   "ok": true
