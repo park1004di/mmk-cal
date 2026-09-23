@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T09:05:09+06:30",
+  "updated_at": "2026-09-23T13:55:32+06:30",
   "world": {
     "usd_per_oz": 4337.85,
     "change": 18.99,
@@ -10,34 +10,34 @@
     {
       "code": "16peye",
       "name": "16 Pe Ye",
-      "buy": 10030000.0,
-      "sell": 10100000.0,
-      "buy_change": -20000.0,
-      "sell_change": -20000.0
+      "buy": 10050000.0,
+      "sell": 10120000.0,
+      "buy_change": 20000.0,
+      "sell_change": 20000.0
     },
     {
       "code": "15peye",
       "name": "15 Pe Ye",
-      "buy": 9430000.0,
-      "sell": 9500000.0,
-      "buy_change": -20000.0,
-      "sell_change": -20000.0
+      "buy": 9450000.0,
+      "sell": 9520000.0,
+      "buy_change": 20000.0,
+      "sell_change": 20000.0
     },
     {
       "code": "new-16peye",
       "name": "New 16 Pe Ye",
-      "buy": 9860000.0,
-      "sell": 9930000.0,
-      "buy_change": -20000.0,
-      "sell_change": -20000.0
+      "buy": 9880000.0,
+      "sell": 9950000.0,
+      "buy_change": 20000.0,
+      "sell_change": 20000.0
     },
     {
       "code": "new-15peye",
       "name": "New 15 Pe Ye",
-      "buy": 9270000.0,
-      "sell": 9340000.0,
-      "buy_change": -20000.0,
-      "sell_change": -20000.0
+      "buy": 9290000.0,
+      "sell": 9360000.0,
+      "buy_change": 20000.0,
+      "sell_change": 20000.0
     }
   ],
   "date": "2026-09-23"
