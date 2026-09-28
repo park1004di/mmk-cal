@@ -1,43 +1,43 @@
 {
-  "updated_at": "2026-09-28T09:41:38+06:30",
+  "updated_at": "2026-09-28T11:41:14+06:30",
   "world": {
-    "usd_per_oz": 4199.61,
-    "change": -85.68,
-    "usd_per_gram": 135.02,
-    "usd_per_kyattha": 2239.79
+    "usd_per_oz": 4191.69,
+    "change": -7.92,
+    "usd_per_gram": 134.77,
+    "usd_per_kyattha": 2235.57
   },
   "myanmar": [
     {
       "code": "16peye",
       "name": "16 Pe Ye",
-      "buy": 9980000.0,
-      "sell": 10050000.0,
-      "buy_change": -80000.0,
-      "sell_change": -80000.0
+      "buy": 9960000.0,
+      "sell": 10030000.0,
+      "buy_change": -20000.0,
+      "sell_change": -20000.0
     },
     {
       "code": "15peye",
       "name": "15 Pe Ye",
-      "buy": 9390000.0,
-      "sell": 9460000.0,
-      "buy_change": -70000.0,
-      "sell_change": -70000.0
+      "buy": 9370000.0,
+      "sell": 9440000.0,
+      "buy_change": -20000.0,
+      "sell_change": -20000.0
     },
     {
       "code": "new-16peye",
       "name": "New 16 Pe Ye",
-      "buy": 9810000.0,
-      "sell": 9880000.0,
-      "buy_change": -80000.0,
-      "sell_change": -80000.0
+      "buy": 9790000.0,
+      "sell": 9860000.0,
+      "buy_change": -20000.0,
+      "sell_change": -20000.0
     },
     {
       "code": "new-15peye",
       "name": "New 15 Pe Ye",
-      "buy": 9230000.0,
-      "sell": 9300000.0,
-      "buy_change": -70000.0,
-      "sell_change": -70000.0
+      "buy": 9210000.0,
+      "sell": 9280000.0,
+      "buy_change": -20000.0,
+      "sell_change": -20000.0
     }
   ],
   "date": "2026-09-28"
