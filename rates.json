@@ -30,8 +30,8 @@
       "key": "cbm_ref",
       "name": "중앙은행 기준환율",
       "desc": "CBM 공식 기준 고시환율",
-      "mmkPerUsd": 2100.0,
-      "mmkPerKrw": 1.5439
+      "mmkPerUsd": 2098.14,
+      "mmkPerKrw": 1.5425
     }
   ]
 }
