@@ -326,7 +326,7 @@
     "cbm_market_krw": 2.722,
     "remit_usd": 3926.19,
     "remit_krw": 2.92,
-    "cbm_ref_usd": 2101.07,
-    "cbm_ref_krw": 1.5626
+    "cbm_ref_usd": 2100.0,
+    "cbm_ref_krw": 1.5618
   }
 ]
