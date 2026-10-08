@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-09-08",
-    "market_usd": "4260.0",
-    "market_krw": "3.185",
-    "cbm_market_usd": "",
-    "cbm_market_krw": "",
-    "remit_usd": "",
-    "remit_krw": "",
-    "cbm_ref_usd": "",
-    "cbm_ref_krw": ""
-  },
-  {
     "date": "2026-09-09",
     "market_usd": "4265.0",
     "market_krw": "3.1889",
@@ -320,13 +309,24 @@
   },
   {
     "date": "2026-10-07",
-    "market_usd": 4450.0,
-    "market_krw": 3.3236,
+    "market_usd": "4450.0",
+    "market_krw": "3.3236",
+    "cbm_market_usd": "3660.0",
+    "cbm_market_krw": "2.7335",
+    "remit_usd": "3926.19",
+    "remit_krw": "2.9323",
+    "cbm_ref_usd": "2100.0",
+    "cbm_ref_krw": "1.5684"
+  },
+  {
+    "date": "2026-10-08",
+    "market_usd": 4455.0,
+    "market_krw": 3.3269,
     "cbm_market_usd": 3660.0,
-    "cbm_market_krw": 2.7335,
+    "cbm_market_krw": 2.7332,
     "remit_usd": 3926.19,
-    "remit_krw": 2.9323,
+    "remit_krw": 2.932,
     "cbm_ref_usd": 2100.0,
-    "cbm_ref_krw": 1.5684
+    "cbm_ref_krw": 1.5682
   }
 ]
