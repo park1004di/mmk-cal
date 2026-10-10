@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-09T16:19:24+06:30",
+  "updated_at": "2026-10-10T09:08:35+06:30",
   "world": {
-    "usd_per_oz": 4184.58,
-    "change": -6.57,
-    "usd_per_gram": 134.54,
-    "usd_per_kyattha": 2231.78
+    "usd_per_oz": 4194.4,
+    "change": 9.82,
+    "usd_per_gram": 134.85,
+    "usd_per_kyattha": 2237.01
   },
   "myanmar": [
     {
@@ -40,5 +40,5 @@
       "sell_change": -40000.0
     }
   ],
-  "date": "2026-10-09"
+  "date": "2026-10-10"
 }
