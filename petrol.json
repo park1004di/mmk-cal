@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-10-16T11:28:51+06:30",
+  "updated_at": "2026-10-17T09:10:16+06:30",
   "region": "Yangon",
   "items": [
     {
       "code": "diesel",
       "name": "Diesel",
       "rate": 4485.0,
-      "change": -95.0
+      "change": 0.0
     },
     {
       "code": "premium-diesel",
       "name": "Premium Diesel",
       "rate": 5440.0,
-      "change": -135.0
+      "change": 0.0
     },
     {
       "code": "ron92",
       "name": "92 RON Octane",
       "rate": 4705.0,
-      "change": 110.0
+      "change": 0.0
     },
     {
       "code": "ron95",
       "name": "95 RON Octane",
       "rate": 4850.0,
-      "change": 80.0
+      "change": 0.0
     }
   ],
   "date": "2026-10-17"
