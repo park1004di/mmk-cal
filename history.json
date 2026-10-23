@@ -320,13 +320,13 @@
   },
   {
     "date": "2026-10-23",
-    "market_usd": 4600.0,
-    "market_krw": 3.4687,
+    "market_usd": 4610.0,
+    "market_krw": 3.4794,
     "cbm_market_usd": 3660.0,
-    "cbm_market_krw": 2.7599,
+    "cbm_market_krw": 2.7624,
     "remit_usd": 3926.19,
-    "remit_krw": 2.9606,
+    "remit_krw": 2.9633,
     "cbm_ref_usd": 2100.0,
-    "cbm_ref_krw": 1.5835
+    "cbm_ref_krw": 1.585
   }
 ]
