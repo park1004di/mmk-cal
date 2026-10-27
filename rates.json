@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "card": {
     "usdKrw": 1325.2,
     "feePct": 2.5
@@ -30,7 +30,7 @@
       "key": "cbm_ref",
       "name": "중앙은행 기준환율",
       "desc": "CBM 공식 기준 고시환율",
-      "mmkPerUsd": 2100.0,
+      "mmkPerUsd": 2100.07,
       "mmkPerKrw": 1.5847
     }
   ]
