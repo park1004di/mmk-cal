@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-10-09",
-    "market_usd": "4445.0",
-    "market_krw": "3.3114",
-    "cbm_market_usd": "3660.0",
-    "cbm_market_krw": "2.7266",
-    "remit_usd": "3926.19",
-    "remit_krw": "2.9249",
-    "cbm_ref_usd": "2100.0",
-    "cbm_ref_krw": "1.5644"
-  },
-  {
     "date": "2026-10-10",
     "market_usd": "4437.5",
     "market_krw": "3.3076",
@@ -320,6 +309,17 @@
   },
   {
     "date": "2026-11-07",
+    "market_usd": "4690.0",
+    "market_krw": "3.457",
+    "cbm_market_usd": "3660.0",
+    "cbm_market_krw": "2.6978",
+    "remit_usd": "3926.19",
+    "remit_krw": "2.894",
+    "cbm_ref_usd": "2100.0",
+    "cbm_ref_krw": "1.5479"
+  },
+  {
+    "date": "2026-11-08",
     "market_usd": 4690.0,
     "market_krw": 3.457,
     "cbm_market_usd": 3660.0,
