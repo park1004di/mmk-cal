@@ -321,12 +321,12 @@
   {
     "date": "2026-11-08",
     "market_usd": 4690.0,
-    "market_krw": 3.457,
+    "market_krw": 3.4603,
     "cbm_market_usd": 3660.0,
-    "cbm_market_krw": 2.6978,
+    "cbm_market_krw": 2.7003,
     "remit_usd": 3926.19,
-    "remit_krw": 2.894,
+    "remit_krw": 2.8967,
     "cbm_ref_usd": 2100.0,
-    "cbm_ref_krw": 1.5479
+    "cbm_ref_krw": 1.5494
   }
 ]
