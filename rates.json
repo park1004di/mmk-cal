@@ -1,7 +1,7 @@
 {
   "updated": "2026-11-23",
   "card": {
-    "usdKrw": 1343.3,
+    "usdKrw": 1343.6,
     "feePct": 2.5
   },
   "items": [
@@ -9,29 +9,29 @@
       "key": "market",
       "name": "환전소 예상 환율",
       "desc": "현지 환전소 적용 예상 환율",
-      "mmkPerUsd": 5110.0,
-      "mmkPerKrw": 3.804
+      "mmkPerUsd": 5180.0,
+      "mmkPerKrw": 3.8553
     },
     {
       "key": "cbm_market",
       "name": "중앙은행 시장거래환율",
       "desc": "미얀마 중앙은행(CBM) 은행거래 고시",
       "mmkPerUsd": 3660.0,
-      "mmkPerKrw": 2.7246
+      "mmkPerKrw": 2.724
     },
     {
       "key": "remit",
       "name": "해외송금 환율",
       "desc": "송금업체 적용 환율 (참고용)",
       "mmkPerUsd": 3926.19,
-      "mmkPerKrw": 2.9227
+      "mmkPerKrw": 2.9221
     },
     {
       "key": "cbm_ref",
       "name": "중앙은행 기준환율",
       "desc": "CBM 공식 기준 고시환율",
       "mmkPerUsd": 2100.0,
-      "mmkPerKrw": 1.5633
+      "mmkPerKrw": 1.563
     }
   ]
 }
