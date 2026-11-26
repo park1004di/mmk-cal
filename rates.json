@@ -9,8 +9,8 @@
       "key": "market",
       "name": "환전소 예상 환율",
       "desc": "현지 환전소 적용 예상 환율",
-      "mmkPerUsd": 5270.0,
-      "mmkPerKrw": 3.9239
+      "mmkPerUsd": 5450.0,
+      "mmkPerKrw": 4.058
     },
     {
       "key": "cbm_market",
